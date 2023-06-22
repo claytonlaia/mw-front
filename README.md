@@ -1,24 +1,14 @@
-# efacilitador-front
+# Requisitos para o mw_front
+```
+ - Node versão v12.5.0 ou posterior (recomendada a v12.5.0)
+```
 
-## Project setup
+## Instalação dos modulos para o projeto do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Iniciar o servidor
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
